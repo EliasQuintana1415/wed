@@ -1,0 +1,22 @@
+body{ 
+    background-color:rgb(175, 225, 255);
+    background-image: linear-gradient( rgb(32, 32, 143, 0.084));
+    background-image: url(descarga.jpg );
+    background-size: 180%;
+}
+h1{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h2{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+h3{ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+div{  
+  display: flex;
+ background-color: aliceblue;
+border:  5px solid white;
+padding: 5%;
+        margin-right:5%;
+        margin-left: 10%;
+        margin-top: 5%;
+        border-radius:50px;
+    
+    }
+
